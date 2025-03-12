@@ -10,9 +10,7 @@ public class Smartphone extends Phone implements Camera , Clock {
     }
 
     public String alarm() {
-
         return "The alarm is ringing";
     }
-    //mètodes propis
 
 }
